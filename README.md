@@ -7,7 +7,7 @@ I recently finished my master’s in Agroecology, and if you don’t know, Agroe
 Now, you might ask: how did I get into coding and machine learning?  
 Well, we have a course in Agroecology called Crop Modeling, and it involves lots of data, coding, modeling, and simulations. So you could say learning a programming language is basically a must in this field. Also as it happens, my thesis heavily relied on millions of data points, large visualizations, and building different models. (I’ll upload some of the code I wrote for my thesis here on my GitHub. Make sure to check them out!)
 
-So yeah, that’s what initially got me into Python and machine learning. And what came next was a bit unexpected: I actually *really* liked coding, working with big data, and building models! I genuinely enjoyed it, and I discovered I'm good at it.
+So yeah, that’s what initially got me into Python and machine learning. And what came next was a bit unexpected: I actually really liked coding, working with big data, and building models! I genuinely enjoyed it, and I discovered I'm good at it.
 
 Ever since, I've been going deeper and deeper into ML. I'm learning every day, and I actually enjoy that part of the journey.
 
@@ -35,5 +35,5 @@ I’m continuing to deepen my ML skills and explore different projects, and I’
 - **Email:** torkanparvin@gmail.com  
 - **LinkedIn:** [Torkan Parvin](https://www.linkedin.com/in/torkan-parvin/) 
 
-Thanks for reading 🌱
+Thanks for reading 
 
