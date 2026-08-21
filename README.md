@@ -50,7 +50,7 @@ My GitHub is a collection of projects covering different parts of the analytics 
 
 ---
 
-# Featured Projects
+# Some of the Featured Projects
 
 ###  Dideban | Iran Stock Market Analytics
 **2nd Best Final Project, Hamrah Avval Data Analysis Bootcamp**
